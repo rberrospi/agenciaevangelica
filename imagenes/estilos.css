@@ -1,0 +1,602 @@
+Body {
+	font: 12px/1.6em Tahoma, Geneva, sans-serif;
+	background: #EDFCFF url(fondo.png) repeat-x;
+}
+#container {
+	width: 986px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#menu {
+	width: 738px;
+	margin-right: auto;
+	margin-left: auto;
+	float: right;
+	height:30px;
+}
+#cuerpo {
+	background-color:#FFF;
+	-moz-border-radius:16px;
+	border-radius: 16px;
+	padding:8px;
+	border:#666 1px solid;
+}
+#header {
+	background-color:#eef0ef;
+	margin:0 16px 0;
+	border:#C36 1px solid;
+	padding:8px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px 10px 8px 270px;
+	height:218px;
+}
+.tarifas {
+	background-color:#eef0ef;
+	border:#fff 8px solid;
+	padding:0 8px;
+	-moz-border-radius:16px;
+	border-radius: 16px;
+	margin-left: 40px;
+}
+#cuerpete {
+	margin:12px 4px 0;
+	padding:8px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#columnaderecha {
+	border:#C36 1px solid;
+	margin:4px;
+	padding:12px;
+	float:right;
+	width:210px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	background-color:#eef0ef;
+	line-height: 18px;
+}
+#columnaderecha2 {
+	border:#C36 1px solid;
+	margin:4px 4px 4px 24px;
+	padding:12px;
+	float:right;
+	width:190px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	background-color:#fff;
+	line-height: 18px;
+	clear:both;
+}
+#contenedorinicio3 {
+	border:#C36 1px solid;
+	margin:4px;
+	padding:8px;
+	width:666px;
+	float:left;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+	background-color:#eef0ef;
+}
+#contenedoramplio {
+	border:#C36 1px solid;
+	margin:24px 16px 8px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:16px 8px 8px;
+	background-color:#eef0ef;
+	z-index:4;
+}
+#imagenprincipal {
+	float: left;
+	margin:0 30px;
+	position: absolute;
+	top: 8px;
+	width: 350px;
+	z-index: 1;
+}
+#imagenllama {
+	float: left;
+	margin:50px 0 0 8px;
+	position: absolute;
+	top: 8px;
+	z-index: 1;
+}
+.titulo {
+	font:lighter 16px Tahoma, Geneva, sans-serif;
+	text-align:right;
+	color: #333;
+	margin:0 20px 0 0;
+}
+.titulo img {
+	vertical-align: middle;
+}
+#head1 {
+	width:70%;
+	float:left;
+}
+#head2 {
+	width:26%;
+	float:right;
+}
+h2 {
+	color: #e75280;
+	font: italic 24px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+h3 {
+	color: #e75280;
+	font: italic 21px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+h4 {
+	color: #e75280;
+	font: italic 18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:16px 0 4px;
+}
+h5 {
+	color: #e75280;
+	font: italic 16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:26px 0 0;
+}
+.arriba {
+	color: #e75280;
+	text-align:center;
+	font: 21px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:4PX;
+}
+.medio {
+	color:#666;
+	position:absolute;
+	top:120px;
+	margin:0 0 0 220px;
+	font-style: oblique;
+	line-height: 15px;
+	text-align: center;
+}
+marquee {
+	margin-left:22px;
+	margin-right:22px
+}
+#formulario_inicio {
+	text-align:center;
+	line-height: 28px;
+}
+#mod1 {
+	padding: 10px;
+	float: left;
+	width: 177px;
+	margin:0 0 0 16px;
+}
+#mod2 {
+	padding: 10px;
+	float: left;
+	width: 177px;
+	margin: 0 0 0 21px;
+}
+#mod3 {
+	padding: 10px;
+	float: right;
+	width:177px;
+	margin: 0 16px 0 0;
+}
+#columnaderecha h4 {
+	font: 16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	background: #e75280;
+	display: block;
+	padding: 4px;
+	text-align:center;
+	margin:4px 0 12px;
+	border-top-left-radius: 8px;
+	-moz-border-radius-topleft: 8px;
+	border-top-right-radius: 8px;
+	-moz-border-radius-topright: 8px;
+}
+#mod1 h3, #mod2 h3, #mod3 h3 {
+	font: bold 18px/1.6em "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:24px 0  32px 0;
+	color:#e75280;
+	line-height:1.3em;
+}
+a {
+	color:#498774;
+}
+.wrapper1 {
+}
+.wrapper1 a {
+	color: #fff;
+	text-decoration: none;
+	font-size:12px;
+	padding:0 8px;
+}
+.wrapper1 a:hover {
+	color: #E5F2FB;
+}
+.wrapper1 p {
+	padding: 0;
+}
+.wrapper {
+	margin:0 auto;
+}
+.nav {
+	float: left;
+	line-height:28px;
+	z-index: 234000;
+}
+#navigation li {
+	float: left;
+	border-top-left-radius: 8px;
+	-moz-border-radius-topleft: 8px;
+	border-top-right-radius : 8px;
+	-moz-border-radius-topright: 8px;
+	background-color:#e75280;
+	margin:0 1px;
+}
+.nev-wrapper {
+	clear: both;
+	float: left;
+}
+.nav ul {
+	float: left;
+	margin: 0;
+	padding-top: 3px;
+	list-style: none;
+}
+.nav li {
+	float: left;
+	padding: 0 1px;
+	position: relative;
+	z-index: 1;
+}
+.nav li:hover {
+	z-index:2;
+}
+.nav li a {
+	display: block;
+	overflow: hidden;
+	float: left;
+}
+.nav li a:hover, .nav li.active a, .nav li.hover a, .nav li:hover a {
+	color: #fff;
+}
+.nav li:hover .sub, .nav li.hover .sub {
+	display:block;
+}
+.nav li .sub {
+	display: none;
+	position: absolute;
+	top: 28px;
+	left: 6px;
+	background-color:#F6F6F6;
+	width: 186px;
+	padding-top: 9px;
+	-moz-box-shadow: 4px 4px 3px #ccc;
+	-webkit-box-shadow: 4px 4px 3px #ccc;
+	box-shadow: 4px 4px 3px #ccc;
+}
+.nav li ul {
+	width: 192px;
+	height: auto;
+	margin: 0;
+	padding: 0 0 10px;
+	list-style: none;
+}
+.nav li:hover li, .nav li.active li {
+	width: 93%;
+	padding: 2px;
+	border-bottom: 1px #C1D9F0 dashed;
+	background: none !important;
+}
+.nav li:hover li a, .nav li.active li a {
+	color:#333;
+	line-height: normal;
+	width: 172px;
+	padding: 4px;
+	-moz-border-radius:4px;
+	border-radius: 4px;
+	font-size: 12px;
+}
+.nav li:hover li a:hover, .nav li.active li a:hover {
+	color: #fff;
+	background: #e75280 !important;
+	text-decoration: none;
+	line-height: normal;
+}
+/*IE*/
+.nav li li a:hover, .nav li li a:hover {
+	color: #fff;
+	background: #165B9F !important;
+	text-decoration: none;
+	line-height: normal;
+}
+/**/
+.nav .btm-bg {
+	width: 205px;
+	height: 9px;
+	overflow: hidden;
+	clear: both;
+}
+#tituloyenlaces {
+	padding:10px 36px;
+	float:left;
+	z-index:10;
+}
+.content {
+	float: left;
+	padding: 10px 20px;
+}
+#headstaff {
+	background: url(cabecera-staff-agencia2.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+	background-color:#eef0ef;
+}
+#headformacion {
+	background: #eef0ef url(grupoformacioncabecera.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headmanual {
+	background: #eef0ef url(cabecera-manual.png) no-repeat 250px bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headtarifas {
+	background: #eef0ef url(cabecera-tarifa.png) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headseleccion {
+	background: #eef0ef url(header-seleccion.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headseleccion_cocineras {
+	background: #eef0ef url(header-seleccion_cocineras.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headseleccion_nineras {
+	background: #eef0ef url(header-seleccion_nineras.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headseleccion_tecnicas {
+	background: #eef0ef url(header_tecnicas.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headopinas {
+	background: #eef0ef url(tuopinas.jpg) no-repeat left bottom;
+	height:236px;
+	text-align:right;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headbiblico {
+	background: #eef0ef url(head_bibilicos.jpg) no-repeat left bottom;
+	height:236px;
+	text-align:right;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+#headempleadas {
+	background: #eef0ef url(header-seleccion-empleadas.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	vertical-align:middle;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+}
+
+#headgobernanta {
+	background: #eef0ef url(curso-gobernanta-hogar.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	vertical-align:middle;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+	text-align: left;
+}
+
+#headlenceria {
+	background: #eef0ef url(curso-lenceria-hogar.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;
+	vertical-align:middle;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+	text-align: left;
+}
+#headcocina {
+	background: #eef0ef url(cursos-cocina-empleadas-hogar.jpg) no-repeat right bottom;
+	height:236px;
+	border:#C36 1px solid;
+	margin:0 16px;
+	padding:8px;
+	width:100%px;	
+	vertical-align:middle;
+	-moz-border-radius:8px;
+	border-radius: 8px;
+	padding:8px;
+	text-align: left;
+}
+
+#dedos {
+	width: 400px;
+	padding:10px 32px 10px 35px;
+	float: left;
+	margin:0 0 16px 0;
+}
+#dedos2 {
+	width: 400px;
+	padding:10px 16px 10px;
+	float: left;
+}
+#dedos3 {
+	width: 400px;
+	padding-right: 32px;
+	padding-left: 35px;
+	float: left;
+}
+#dedos4 {
+	width: 400px;
+	padding-right: 16px;
+	padding-left: 16px;
+	float: left;
+}
+#menuvertical {
+	width:196px;
+	float:left;
+}
+table.tabla {
+	background: #FFF;
+}
+table td {
+	background-color:#eef0ef;
+}
+ul {
+	list-style: disc url(disco.png);
+	margin: 8px 0 0 -10px;
+}
+#menuvertical ul li a {
+	text-decoration: none;
+}
+#menuvertical ul li a:hover {
+	text-decoration:underline;
+	color:#e75280;
+}
+#tituloyenlaces a {
+	margin: 0 2px;
+	padding: 4px 7px;
+	color:#FFF;
+	background-color:#e75280;
+	border-top-left-radius: 8px;
+	-moz-border-radius-topleft: 8px;
+	border-top-right-radius : 8px;
+	-moz-border-radius-topright: 8px;
+	text-decoration: none;
+	position: relative;
+	top: 11px;
+}
+.actual {
+	border: thin solid #e75280;
+	color:#069!important;
+	padding: 4px 8px!important;
+	border-bottom:#eef0ef !important;
+	border-bottom:thick;
+	background-color:#eef0ef!important;
+	top: 12px!important;
+}
+.0 td {
+	background-color:#eef0ef!important;
+}
+#cuerpo #contenedoramplio div #frm_pedido .0 tr td {
+	text-align: center;
+}
+#cuerpo #contenedoramplio div .tarifas h4 strong {
+	color:#036;
+	font-size:140%;
+	
+}
+.izquierda{
+	float:left;
+	}
+	.derecha{
+	float:right;
+	}
+img .derecha{
+	border-color: #e75280}
+	
+	
+	h3 strong {
+	color:#7979D9;
+
+}
+	
+	h4 strong {
+	color:#7979D9;
+
+}
+h5 strong {
+	color:#7979D9}
+.chica {
+	font-size: 78%;
+}
+#contenedoramplio div .tarifas p {
+	margin: 0px 0px 10px 20px;
+}
+#publi{
+	margin:0 16px 16px;
+	text-align:left;}
